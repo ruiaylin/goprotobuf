@@ -1,0 +1,1 @@
+This package [has moved to GitHub](https://github.com/golang/protobuf).
